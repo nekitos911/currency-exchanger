@@ -1,0 +1,6 @@
+rootProject.name = 'currency-exchanger'
+include 'currency-rate-service'
+include 'config-service'
+include 'api-gateway'
+include 'registry'
+
