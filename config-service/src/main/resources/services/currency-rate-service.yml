@@ -1,0 +1,7 @@
+server:
+  port: 0
+
+http:
+  client:
+    cb:
+      base-url: http://www.cbr.ru/scripts/XML_daily.asp
